@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|c:\\users\\silvi\\onedrive - universitatea \u201Eovidius\u201D\\anul iii\\tehnici avansate de programare\\proiect\\dailyplanner\\dailyplanner\\cheltuieliact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\cheltuieliact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\cheltuieliact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\cheltuieliact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\categoriiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\categoriiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\produseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\produseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\cheltuieliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\cheltuieliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\dailyplanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5E037-6217-4CC9-93F9-AB6E098C3E7A}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheltuieliAct.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CheltuieliAct.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\CheltuieliAct.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CheltuieliAct.cs",
+              "RelativeToolTip": "DailyPlanner\\CheltuieliAct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:29:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriiForm.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CategoriiForm.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\CategoriiForm.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CategoriiForm.cs",
+              "RelativeToolTip": "DailyPlanner\\CategoriiForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:41:01.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProduseForm.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\ProduseForm.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\ProduseForm.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\ProduseForm.cs",
+              "RelativeToolTip": "DailyPlanner\\ProduseForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:26:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheltuieliAct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CheltuieliAct.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\CheltuieliAct.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CheltuieliAct.cs [Design]",
+              "RelativeToolTip": "DailyPlanner\\CheltuieliAct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:37:19.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "DailyPlanner\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\DataSet1.xsd",
+              "RelativeToolTip": "DailyPlanner\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-12-08T12:40:39.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheltuieliForm.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CheltuieliForm.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\CheltuieliForm.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\CheltuieliForm.cs",
+              "RelativeToolTip": "DailyPlanner\\CheltuieliForm.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:46:54.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\Form1.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\Form1.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\Form1.cs",
+              "RelativeToolTip": "DailyPlanner\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:40:04.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\MainForm.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\MainForm.cs",
+              "ToolTip": "C:\\Users\\silvi\\OneDrive - Universitatea \u201EOVIDIUS\u201D\\Anul III\\Tehnici avansate de programare\\Proiect\\DailyPlanner\\DailyPlanner\\MainForm.cs",
+              "RelativeToolTip": "DailyPlanner\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:16:17.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

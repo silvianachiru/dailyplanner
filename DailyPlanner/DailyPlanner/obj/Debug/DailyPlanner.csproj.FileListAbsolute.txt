@@ -1,0 +1,45 @@
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe.config
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.pdb
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.AssemblyReference.cache
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Form1.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Properties.Resources.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.GenerateResource.cache
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.exe
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.pdb
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.MainForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.ProduseForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CategoriiForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CheltuieliAct.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CheltuieliForm.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.AssemblyReference.cache
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CategoriiForm.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CheltuieliAct.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CheltuieliForm.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Form1.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.MainForm.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.ProduseForm.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Properties.Resources.resources
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.GenerateResource.cache
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.exe
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.pdb
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe.config
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe
+C:\Users\silvi\Desktop\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.pdb
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe.config
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.pdb
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.AssemblyReference.cache
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CategoriiForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CheltuieliAct.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.CheltuieliForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Form1.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.MainForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.ProduseForm.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Properties.Resources.resources
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.GenerateResource.cache
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.exe
+C:\Users\silvi\OneDrive - Universitatea „OVIDIUS”\Anul III\Tehnici avansate de programare\Proiect\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.pdb
